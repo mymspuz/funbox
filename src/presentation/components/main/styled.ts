@@ -21,7 +21,7 @@ export const BoxMainStyle = styled(Box)(({ theme }) => ({
     background: 'linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 5e-05) 49.88%, rgba(0, 0, 0, 0.5) 100%), url("img/bg.png")',
     display: 'flex',
     alignItems: 'center',
-    justifyContent: 'start',
+    justifyContent: 'center',
     flexDirection: 'column'
 }))
 
